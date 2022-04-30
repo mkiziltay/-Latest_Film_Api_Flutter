@@ -12,7 +12,7 @@
 * images are taken from source
 
 ## Libraries
-* Google Fonts ``` abc ```
+* Google Fonts
 * Dio
 * DateTime 
 
