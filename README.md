@@ -1,16 +1,24 @@
-# latest_film_api
+# Latest Films App
+* Listing films with Listview
+* Film Details screen
+* Getting latest films list from api source.
 
-A new Flutter project.
 
-## Getting Started
+## Code Written Directories
+* lib/..
+* pubspec.yml (added external libraries)
 
-This project is a starting point for a Flutter application.
+## Used : Images & Vectors
+* images are taken from source
 
-A few resources to get you started if this is your first Flutter project:
+## Libraries
+* Google Fonts
+* Dio
+* DateTime 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot Example
+<p align="center">
+  <img alt="Light Mode" src="https://github.com/mkiziltay/Film_Store_UI_Design/blob/master/film-screen.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark Mode" src="https://github.com/mkiziltay/Film_Store_UI_Design/blob/master/film-details.png" width="45%">
+</p>
