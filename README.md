@@ -14,7 +14,7 @@
 ## Libraries
 * Google Fonts  ``` google_fonts: ^2.3.1 ```
 * Dio ``` dio: ^4.0.4 ```
-* DateTime 
+* DateTime ``` intl: ^0.17.0 ```
 
 ## Screenshot Example
 <p align="center">
