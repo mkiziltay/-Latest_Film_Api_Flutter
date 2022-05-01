@@ -12,7 +12,7 @@
 * images are taken from source
 
 ## Libraries
-* Google Fonts
+* Google Fonts  ``` google_fonts: ^2.3.1 ```
 * Dio
 * DateTime 
 
