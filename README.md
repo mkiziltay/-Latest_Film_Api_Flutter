@@ -13,7 +13,7 @@
 
 ## Libraries
 * Google Fonts  ``` google_fonts: ^2.3.1 ```
-* Dio
+* Dio ``` dio: ^4.0.4 ```
 * DateTime 
 
 ## Screenshot Example
