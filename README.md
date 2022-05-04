@@ -1,5 +1,5 @@
 # Latest Films App
-* Listing films with Listview
+* Created list of films with Listview
 * Film Details screen
 * Getting latest films list from api source.
 
