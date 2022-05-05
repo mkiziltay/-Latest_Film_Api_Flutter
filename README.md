@@ -9,7 +9,7 @@
 * pubspec.yml (added external libraries)
 
 ## Used : Images & Vectors
-* images are taken from source
+* images are taken from api source
 
 ## Libraries
 * Google Fonts  ``` google_fonts: ^2.3.1 ```
